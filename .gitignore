@@ -1,0 +1,16 @@
+﻿# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python environment/cache from the older portfolio
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
