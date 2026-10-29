@@ -18,3 +18,5 @@ Open `index.html` in a web browser.
 The website is served through Nginx in a Docker container on port 8080.
 
 Webhook verification: push event test.
+
+Webhook verification: pull request event test.
